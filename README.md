@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Riccardo. I have a Master Degree in Computer Science and a First-level Master certification in Mobile and Web Technologies.
+My name is Riccardo and I'm a **Software Developer**. I have a Master Degree in Computer Science and a First-level Master certification in Mobile and Web Technologies.
 
 I've always been attracted to computers and tech stuff, and since my early years in university I've been interested in programming and software development.
 
