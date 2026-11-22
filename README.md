@@ -1,9 +1,17 @@
 ## Hi there 👋
 
-My name is Riccardo and I'm a **Software Developer**. I have a Master Degree in Computer Science and a First-level Master certification in Mobile and Web Technologies.
+My name is Riccardo and I'm a **Backend Developer**. I hold a Master's Degree in Computer Science and a First-Level Master in Mobile & Web Technologies from the University of L'Aquila.
 
-I've always been attracted to computers and tech stuff, and since my early years in university I've been interested in programming and software development.
+I've always been drawn to computers and tech, and since my early university years I've been into programming and software development. These days I work mainly with **Java** and **Spring Boot**, building microservice-based systems and modular monoliths with **Docker**. I'm also a long-time **Linux** enthusiast and enjoy Nix and self-hosting my own setups.
 
+#### Tech I work with
+
+![Java](https://img.shields.io/badge/java-ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
 #### Contact me
 
@@ -13,10 +21,3 @@ I've always been attracted to computers and tech stuff, and since my early years
 <a href="https://www.linkedin.com/in/riccardo-armando-di-prinzio" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
-#### GitHub Stats
-
-![ricdip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricdip&show_icons=true&theme=transparent&count_private=true)
-
-![ricdip's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ricdip&dates=427F87&currStreakLabel=427F87&currStreakNum=427F87&fire=2982FF&sideLabels=427F87&sideNums=427F87&ring=2982FF)
