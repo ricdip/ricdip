@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Riccardo and I'm a **Backend Developer**. I hold a Master's Degree in Computer Science and a First-Level Master in Mobile & Web Technologies from the University of L'Aquila.
+My name is Riccardo and I'm a **Backend Developer**. I hold a Master's degree in Computer Science and a First-Level Master in Mobile & Web Technologies from the University of L'Aquila.
 
-I've always been drawn to computers and tech, and since my early university years I've been into programming and software development. These days I work mainly with **Java** and **Spring Boot**, building microservice-based systems and modular monoliths with **Docker**. I'm also a long-time **Linux** enthusiast and enjoy Nix and self-hosting my own setups.
+I've always been drawn to computers and tech, and since my early university years I've been into programming and software development. These days I work mainly with **Java** and **Spring Boot**, building microservice-based systems and modular monoliths with **Docker**. I'm also a long-time **Linux** enthusiast, enjoy Nix and tinkering with my own setups, and I'm keen to get into self-hosting.
 
 #### Tech I work with
 
